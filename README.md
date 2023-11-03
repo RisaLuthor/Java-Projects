@@ -1,6 +1,6 @@
 # Java-Projects
 
-# Java proficiency, consider including the following projects:
+Java proficiency, consider including the following projects:
 
 1. E-commerce Application: Develop a robust e-commerce platform with features like product listings, shopping carts, and secure payment gateways, demonstrating your ability to create dynamic and secure online systems.
 
