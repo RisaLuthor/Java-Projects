@@ -13,3 +13,6 @@ Java proficiency, consider including the following projects:
 5. Inventory Tracking System: Develop an automated inventory management system with real-time tracking and reporting functionalities, showcasing your ability to create efficient and scalable business solutions.
 
 Incorporating these Java projects into your portfolio can effectively demonstrate your proficiency in developing complex and practical applications, highlighting your ability to solve real-world challenges using Java programming.
+
+Mammal:
+The Mammal project was a way to demonstrate the Factory Design pattern in Java.
